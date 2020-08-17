@@ -89,7 +89,7 @@
         android:textStyle="bold" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnLogout"
         android:layout_width="wrap_content"
         android:layout_height="35dp"
         android:layout_alignParentEnd="true"
@@ -97,7 +97,7 @@
         android:layout_marginEnd="9dp"
         android:layout_marginBottom="556dp"
         android:background="@drawable/button_round"
-        android:text="LogOut"
+        android:text="@string/btnLogOut"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="12sp"

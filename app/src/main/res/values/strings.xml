@@ -26,8 +26,11 @@
     <string name="txAddItems">Add Cakes</string>
     <string name="txUR">Update and Remove</string>
     <string name="txAvailable">Availability</string>
-
+    <string name="txAddimg">Image</string>
+    <string name="btnLogOut">LogOut</string>
 </resources>
+
+
 
 
 
