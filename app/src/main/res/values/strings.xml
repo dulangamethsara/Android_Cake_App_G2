@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TheCakeFairy</string>
+    <string name="btnAdd">Add cakes</string>
+    <string name="btnUR">Update and Remove</string>
+    <string name="btnAvailable">Available list</string>
+    <string name="AddtxName">Cake Name</string>
+    <string name="AddtxWeight">Weight</string>
+    <string name="AddCategory">Category</string>
+    <string name="AddtxPrice">Price</string>
+    <string name="btnAddCake1">Add cake</string>
+    <string name="btnAddClear">Clear</string>
+    <string name="URtxName">Cake Name</string>
+    <string name="URtxNameAns">chocolate cake</string>
+    <string name="URtxWeight">Weight</string>
+    <string name="URtxWeightAns">1 kg</string>
+    <string name="URtxCategory">Category</string>
+    <string name="URtxCategoryAns">Birthday</string>
+    <string name="URtxPrice">Price</string>
+    <string name="URtxPriceAns">3500.00RS</string>
+    <string name="btnURUpdate">Update Cake Details</string>
+    <string name="btnURRemove">Remove Cake</string>
+    <string name="btnPrint">Print</string>
+    <string name="AddtxNameAns">Cake Name here...</string>
+    <string name="AddtxCategoAns">Cetegory here...</string>
+    <string name="txAdminAcc">Admin Account</string>
+    <string name="txAddItems">Add Cakes</string>
+    <string name="txUR">Update and Remove</string>
+    <string name="txAvailable">Availability</string>
+
+</resources>
+
+
+
+
+
