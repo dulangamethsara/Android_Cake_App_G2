@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kaushalya</string>
+    <string name="txMyCart">My Cart</string>
+    <string name="txMyCart1">Choco Cake</string>
+    <string name="btnRemove">Remove</string>
+    <string name="btnRemove2">Remove</string>
+    <string name="txMyCart2">Brawny Cake</string>
+    <string name="txSecond1">choco cake</string>
+    <string name="Secondbtn1">Buy Now</string>
+    <string name="Secondbtn2">Add To Cart</string>
+
+
+
+
+
+</resources>
