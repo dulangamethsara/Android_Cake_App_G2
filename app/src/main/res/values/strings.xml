@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cake Fairy</string>
+    <string name="txOrderCon">Oder Confirm</string>
+    <string name="tx1">Total Amount</string>
+    <string name="btn1">Delete Order</string>
+    <string name="btn2">Confirm Order</string>
+    <string name="Tx2">Buy Now</string>
+    <string name="tx2">Buy Now</string>
+    <string name="btn3">Process to pay</string>
+</resources>
